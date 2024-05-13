@@ -3,7 +3,7 @@ extends Sprite2D
 var speed = 400
 var angular_speed = PI
 
-func _init:
+func _init():
 	print("hello world")
 
 func _process(delta):
@@ -12,8 +12,8 @@ func _process(delta):
 		direction = -1
 	if Input.is_action_pressed("ui_right"):
 		direction = 1
-	rotation += angular_speed*delta*direction
+	rotation += angular_speed * delta * direction
 	var velocity = Vector2.ZERO
 	if Input.is_action_pressed("ui_up"):
-		velocity = Vector2.UP.rotated(rotation)*speed
-	position += velocity*delta
+		velocity = Vector2.UP.rotated(rotation) * speed
+	position += velocity * delta
