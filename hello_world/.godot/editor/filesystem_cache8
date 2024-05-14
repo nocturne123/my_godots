@@ -1,13 +1,6 @@
 ea4bc82a6ad023ab7ee23ee620429895
-<<<<<<< Updated upstream
-::res://::1715560556
-icon.svg::CompressedTexture2D::2889205650007601734::1715560249::1715560557::1::::<><>::
-Sprite2D.gd::GDScript::-1::1715560401::0::1::::<>Sprite2D<>::
-sprite_2d.tscn::PackedScene::9056619611878838507::1715560249::0::1::::<><>::uid://bhfs2a7hpxhe1::::res://icon.svg<>res://Sprite2D.gd
-=======
-::res://::1715699982
-fantasyhextiles_v3_borderless.png::CompressedTexture2D::6729234968461260667::1691073041::1715699984::1::::<><>::
-icon.svg::CompressedTexture2D::2889205650007601734::1715486988::1715487000::1::::<><>::
-Sprite2D.gd::GDScript::-1::1715487656::0::1::::<>Sprite2D<>::
-sprite_2d.tscn::PackedScene::9056619611878838507::1715487928::0::1::::<><>::uid://bhfs2a7hpxhe1::::res://icon.svg<>res://Sprite2D.gd
->>>>>>> Stashed changes
+::res://::1715704149
+fantasyhextiles_v3_borderless.png::CompressedTexture2D::6729234968461260667::1715704149::1715704149::1::::<><>::
+icon.svg::CompressedTexture2D::2889205650007601734::1715537427::1715704175::1::::<><>::
+Sprite2D.gd::GDScript::-1::1715704148::0::1::::<>Sprite2D<>::
+sprite_2d.tscn::PackedScene::9056619611878838507::1715704149::0::1::::<><>::uid://bhfs2a7hpxhe1::::res://icon.svg<>res://Sprite2D.gd<>uid://c24xrtnn0guw6::::res://fantasyhextiles_v3_borderless.png
